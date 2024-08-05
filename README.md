@@ -6,4 +6,9 @@ Soon after the challenge took another height by being in a remote area with a fo
 
 The application consists mainly of 2 screens, 1 to take a photo and the other screen to see the results interpreted with AI capabilities. It extracts keywords from vague descriptions, translates marketing jargon, and puts a potential health risk grade via colors.
 
-Note: This repo contains only the public docs and issues related to the app.
+## For Early Access submit the following form
+[Early Access Request](https://forms.gle/a51gk1tSLdaoLSCY9)
+
+[Play Store app](https://play.google.com/store/apps/details?id=pt.trifan.stanislav.anti.food)
+
+Note: This repo contains only the public docs and issues related to the app. The app itself is in the app store at 
