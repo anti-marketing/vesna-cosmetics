@@ -1,5 +1,0 @@
-plugins:
-- jekyll_google_translate
-
-whitelist:
-- jekyll_google_translate
