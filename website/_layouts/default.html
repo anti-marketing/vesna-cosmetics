@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: nowMillis }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/jekyll_google_translate.css?v=' | append: nowMillis }}" type="text/css">
+  </head>
+  <body>
+    <nav id="sidebar">
+      {% google_translate_html %}
+    </nav>
+  </body>
+  {% google_translate_javascript %}
+</html>
