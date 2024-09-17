@@ -14,6 +14,7 @@ Please note that the Application utilizes third-party services that have their o
 - [AdMob](https://developers.google.com/admob/terms)
 - [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 - [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+- [Open AI](https://openai.com/policies/terms-of-use/)
 - [Contains animations under Lottie Simple License (FL 9.13.21)](https://lottiefiles.com/page/license)
 
 
