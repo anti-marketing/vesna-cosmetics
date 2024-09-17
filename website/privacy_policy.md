@@ -29,6 +29,7 @@ Please note that the Application utilizes third-party services that have their o
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Open AI](https://openai.com/policies/row-privacy-policy/)
 
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
@@ -54,7 +55,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 ## Changes
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-07-26
+This privacy policy is effective as of 2024-09-18
 
 ## Your Consent
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
