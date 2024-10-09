@@ -1,5 +1,5 @@
-# Anti-Food Privacy Policy
-This privacy policy applies to the Anti-Food app (hereby referred to as "Application") for mobile devices that was created by Stanislav Trifan (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+# Vesna Cosmetics Privacy Policy
+This privacy policy applies to the Vesna Cosmetics app (hereby referred to as "Application") for mobile devices that was created by Stanislav Trifan (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
@@ -27,8 +27,7 @@ Please note that the Application utilizes third-party services that have their o
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Sentry](https://sentry.io/privacy)
 - [Open AI](https://openai.com/policies/row-privacy-policy/)
 
 
